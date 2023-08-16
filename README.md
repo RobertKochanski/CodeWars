@@ -1,2 +1,2 @@
 # CodeWars
-### Repo for kata solutions
+### Repo for codewars solutions
