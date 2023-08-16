@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create_Phone_Number", "Create_Phone_Number.csproj", "{FCE7116C-DAD3-4E02-81B4-551759365E5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE7116C-DAD3-4E02-81B4-551759365E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE7116C-DAD3-4E02-81B4-551759365E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE7116C-DAD3-4E02-81B4-551759365E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE7116C-DAD3-4E02-81B4-551759365E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAEC8F1E-AC7F-4447-8724-D4B2579AFEB8}
+	EndGlobalSection
+EndGlobal
