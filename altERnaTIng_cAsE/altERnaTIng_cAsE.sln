@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "altERnaTIng_cAsE", "altERnaTIng_cAsE\altERnaTIng_cAsE.csproj", "{A83CE884-A666-46E2-8753-922FFF059AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83CE884-A666-46E2-8753-922FFF059AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83CE884-A666-46E2-8753-922FFF059AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83CE884-A666-46E2-8753-922FFF059AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83CE884-A666-46E2-8753-922FFF059AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {137FC7C5-DC7A-435E-A5D5-FDB956AD1B95}
+	EndGlobalSection
+EndGlobal
